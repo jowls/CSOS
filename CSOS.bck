@@ -6,4 +6,10 @@ K ampliop
 F ns/lm158.pdf
 $ENDCMP
 #
+$CMP TC1016
+D Linear Regulator +5V
+K POWER REGUL
+F regulator\lm78xx.pdf
+$ENDCMP
+#
 #End Doc Library
