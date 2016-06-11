@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:CSOS-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -146,7 +147,7 @@ F 3 "" H 7010 2960 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L POT RV1
+L POT-RESCUE-CSOS RV1
 U 1 1 57479CE3
 P 4600 4030
 F 0 "RV1" H 4600 3930 50  0000 C CNN
