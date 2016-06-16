@@ -47,14 +47,14 @@ Comment4 ""
 $EndDescr
 $Comp
 L LMV358 U201
-U 1 1 575CD7DB
+U 2 1 575CD7DB
 P 5230 3610
 F 0 "U201" H 5180 3810 50  0000 L CNN
 F 1 "LMV358" H 5180 3360 50  0000 L CNN
 F 2 "SMD_Packages:SOIC-8-N" H 5230 3610 50  0001 C CNN
 F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/b9/d8/3b/8f/a1/8f/46/01/CD00079372.pdf/files/CD00079372.pdf/jcr:content/translations/en.CD00079372.pdf" H 5230 3610 50  0001 C CNN
 F 4 "LMV358IDT" H 5230 3610 60  0001 C CNN "MPN"
-	1    5230 3610
+	2    5230 3610
 	1    0    0    -1  
 $EndComp
 $Comp
