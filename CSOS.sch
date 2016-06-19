@@ -39,7 +39,7 @@ Sheet 1 4
 Title "Current Sink"
 Date "2016-06-12"
 Rev "-"
-Comp "J A"
+Comp "Joseph Allan"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -53,6 +53,7 @@ F 0 "P103" H 7450 2430 50  0000 C CNN
 F 1 "CONN_01X02" V 7550 2280 50  0000 C CNN
 F 2 "CSOS:Terminal_Block_200_mil" H 7450 2280 50  0001 C CNN
 F 3 "" H 7450 2280 50  0000 C CNN
+F 4 "OSTTC022162" H 7450 2280 60  0001 C CNN "MPN"
 	1    7450 2280
 	1    0    0    -1  
 $EndComp
@@ -68,6 +69,7 @@ F 0 "P102" H 6980 1610 50  0000 C CNN
 F 1 "CONN_01X03" V 7080 1410 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 6980 1410 50  0001 C CNN
 F 3 "" H 6980 1410 50  0000 C CNN
+F 4 "M20-9990346" H 6980 1410 60  0001 C CNN "MPN"
 	1    6980 1410
 	0    -1   -1   0   
 $EndComp
@@ -85,6 +87,7 @@ F 0 "P101" H 3710 1930 50  0000 C CNN
 F 1 "CONN_01X02" V 3810 1780 50  0000 C CNN
 F 2 "CSOS:Terminal_Block_200_mil" H 3710 1780 50  0001 C CNN
 F 3 "" H 3710 1780 50  0000 C CNN
+F 4 "OSTTC022162" H 3710 1780 60  0001 C CNN "MPN"
 	1    3710 1780
 	-1   0    0    -1  
 $EndComp

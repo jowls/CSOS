@@ -39,7 +39,7 @@ Sheet 3 4
 Title "Voltage Control"
 Date "2016-06-12"
 Rev "-"
-Comp "J A"
+Comp "Joseph Allan"
 Comment1 ""
 Comment2 ""
 Comment3 ""
